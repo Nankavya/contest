@@ -1,0 +1,57 @@
+
+.cn{
+    background-color: black;
+    color: aliceblue;
+    margin: 260px;
+    padding: 10px;
+    text-align:left; 
+    text-align: right;
+}
+    
+.n{
+    background-color: black;
+    color: aliceblue;
+    margin: 20px;
+    /* padding: 10px; */
+    text-align:left;
+    
+}
+
+#nav1{
+    background-color: black;
+    color: aliceblue;
+    margin: 20px;
+    padding: 30px;
+    text-align:right;
+}
+div{ 
+    background-color:gray;
+        width: 180px;
+        padding: 50px;
+        margin: 20px;
+        height: 260px;
+        
+      
+}
+#button-1{
+    background-color:black;
+    color: aliceblue;
+}
+main{
+    clear: both;
+    display: block;
+    padding: 10px;
+}
+section{
+    width:70%;
+    float: left;
+    padding:10px;
+    display: block;
+
+}
+aside{
+width:20%;
+padding:20px; 
+text-align:center;
+float: right;
+}
